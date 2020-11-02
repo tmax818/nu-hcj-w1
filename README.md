@@ -20,8 +20,8 @@ $ touch helloWorld.txt
 ```
 - [`helloWorld.html`](helloWorld.html) in the browser:
 
-![GitHub Logo](./images/html.png)
+![helloWorld.html](./images/html.png)
 
 - [`helloWorld.txt`](helloWorld.txt) in the browser:
 
-![GitHub Logo](./images/txt.png)
+![helloWorld.txt](./images/txt.png)
